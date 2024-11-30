@@ -1,0 +1,7 @@
+inventory-app-client/node_modules/
+inventory-app-server/node_modules/
+inventory-app-client/dist/
+inventory-app-server/dist/
+inventory-app-client/.env/
+inventory-app-server/.env/
+inventory-app-client/.next/
