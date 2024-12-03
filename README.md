@@ -3,6 +3,9 @@
 A full-stack application for monitoring and managing inventory stock levels. 
 It includes an admin dashboard for displaying data and visualizations.
 
+## Demo
+https://master.dv7n83wgvslp4.amplifyapp.com/
+
 ## Tech Stack
 
 ### Frontend
